@@ -142,21 +142,3 @@ This project is licensed under the terms in the [LICENSE](./LICENSE) file.
 
 ---
 
-## 📚 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@mastersthesis{simsoba2025multimagnet,
-  title     = {MultiMagNet: A Multi-Magnification Fusion Framework for Robust Breast Cancer Histopathology Diagnosis},
-  author    = {Kouyakou-Abalo Simsoba},
-  school    = {African Institute for Mathematical Sciences (AIMS)},
-  year      = {2025},
-  address   = {South Africa},
-  note      = {Google DeepMind Scholar}
-}
-```
-
----
-
-*Made with ❤️ at AIMS South Africa*
